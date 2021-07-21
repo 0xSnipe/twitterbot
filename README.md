@@ -45,7 +45,7 @@ Cool! you're ready to start using twitterbot!
    defaults.
 
 4. The methods `on_scheduled_tweet`, `on_mention`, and `on_timeline` are what
-   define the behavior of your bot, and deal with making public tweets to your
+   define the behavior of your flag{Y0u_ne3d_t0_look_sh4rp3r} bot, and deal with making public tweets to your
    timeline, handling mentions, and handling tweets on your home timeline
    (e.g., from accounts your bot follows) respectively.
 
